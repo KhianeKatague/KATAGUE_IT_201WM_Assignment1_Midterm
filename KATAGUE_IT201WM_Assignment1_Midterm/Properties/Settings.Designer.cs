@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace KATAGUE_IT202WM_Assignment1_Midterm.Properties
+namespace KATAGUE_IT201WM_Assignment1_Midterm.Properties
 {
 
 
